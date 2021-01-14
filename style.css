@@ -30,6 +30,7 @@ body{
     padding: 9px 25px;
     cursor: pointer;
 }
+
 .bag-width img{
     width: 100%;
 }
@@ -41,4 +42,6 @@ body{
     width: 90%;
     height: 80%;
 }
+
+
 
